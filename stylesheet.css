@@ -19,3 +19,21 @@ h1{
 	margin: 325px 50px 50px -48px;
 	
 }
+#twitter{
+	height:40px;
+	margin-top:450px;
+	position:absolute;
+}
+
+#instagram{
+	height:42px;
+	margin-top:450px;
+	margin-left:50px;
+	position:absolute;
+}
+/*#instagram{
+	height:42px;
+	margin-top:450px;
+	margin-left:100px;
+	position:absolute;
+}*/

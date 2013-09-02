@@ -1,0 +1,21 @@
+body {
+	background-color:black;
+}
+
+h1{
+	color:white;
+}
+#main{
+	margin: 200px 50px 100px 200px;
+	position: absolute;
+}
+
+#sub{
+	margin: 325px 50px 50px 500px;
+	height:20px;
+}
+#cursor{
+	position:absolute;
+	margin: 325px 50px 50px -48px;
+	
+}
